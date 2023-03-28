@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+#djPic {
+  width: 400px;
+  height: 200px;
+}
+#main{
+  text-align: center;
+}
+#petrikPic {
+  float:right;
+  width: 200px;
+  height: 200px;
+}
+h1{
+  color: aqua;
+}
+h2{
+  color: #61dafb;
+}
+
+
